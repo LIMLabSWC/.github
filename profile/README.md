@@ -1,15 +1,14 @@
-At LIMLab, we investigate the neural principles underlying how the nervous system computes, represents, and integrates sensory memories and priors to learn and infer meaningful statistical patterns and abstract relationships in the environment.  
+Finding and exploiting patterns and regularities in the environment is a critical brain function for animals living in a complex yet structured world.
+Individuals can deduce abstract relations and learn these regularities through experience, and use this prior information to guide future behaviour.
+The process of inferring statistical patterns and priors constitutes the foundation of further cognitive abilities. How do animals infer these patterns
+and relations, and how priors are formed, represented, and stored?
 
-Our approach combines high-throughput training with sophisticated, well-controlled behavioral paradigms, alongside powerful tools for monitoring and manipulating neural circuits. In all our research programs, experiments are tightly integrated with hypotheses derived from theoretical investigations.  
+Our past, present, and future are intimately linked by our memories of various timescales. The brain is constantly engaged in storing new memories and 
+executing actions while integrating incoming sensory input with past memories and internal models of the world. What are the fundamental principles of
+(sensory) memory organization, and their utilization in inference problems? How are learned priors integrated in memory, or used in combination with
+new sensory information?
 
-Leveraging expertise in theoretical neuroscience, neural network dynamics, rodent cognition, behavioral modeling, imaging, electrophysiology, and optogenetics, we aim to bridge the gap between behavioral-level understanding of memory and statistical learning and its circuit- and systems-level implementation.
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+At LIM Lab we employ a synergistic combination of theory and experiment to tackle the fundamental principles of neuronal computations underlying sensory
+memory organization and sensory inference. We use high-throughput training to combine sophisticated, well-controlled and quantifiable behavioral
+paradigms with powerful tools to monitor and manipulate neural circuits. In all of our research programs, experiments are intertwined with hypotheses
+drawn from theoretical investigations and computational models. 
